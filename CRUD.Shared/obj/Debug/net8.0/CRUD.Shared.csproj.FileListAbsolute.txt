@@ -1,0 +1,11 @@
+C:\dev\CRUD\CRUD.Shared\bin\Debug\net8.0\CRUD.Shared.deps.json
+C:\dev\CRUD\CRUD.Shared\bin\Debug\net8.0\CRUD.Shared.dll
+C:\dev\CRUD\CRUD.Shared\bin\Debug\net8.0\CRUD.Shared.pdb
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.AssemblyInfoInputs.cache
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.AssemblyInfo.cs
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.csproj.CoreCompileInputs.cache
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.dll
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\refint\CRUD.Shared.dll
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\CRUD.Shared.pdb
+C:\dev\CRUD\CRUD.Shared\obj\Debug\net8.0\ref\CRUD.Shared.dll
